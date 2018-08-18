@@ -1,0 +1,6 @@
+WARNING: 06-29 23:10:44: tf_logging.py:125 * 140073611724096 Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING: 06-29 23:10:44: tf_logging.py:125 * 140073611724096 Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING: 06-29 23:14:26: tf_logging.py:125 * 140073611724096 Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING: 06-29 23:14:26: tf_logging.py:125 * 140073611724096 Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING: 06-29 23:14:43: tf_logging.py:125 * 140073611724096 Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING: 06-29 23:14:43: tf_logging.py:125 * 140073611724096 Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.

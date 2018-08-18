@@ -1,0 +1,43 @@
+INFO: 06-29 16:38:52: train_shadownet.py:110 * 139768725566784 Training from scratch
+INFO: 06-29 16:41:31: train_shadownet.py:110 * 140134413174080 Training from scratch
+INFO: 06-29 16:50:06: train_shadownet.py:110 * 140289853392192 Training from scratch
+INFO: 06-29 16:50:42: train_shadownet.py:110 * 139700121756992 Training from scratch
+INFO: 06-29 16:51:03: train_shadownet.py:110 * 139765289764160 Training from scratch
+INFO: 06-29 16:51:07: train_shadownet.py:152 * 139765289764160 Epoch: 1 cost= 75.118446 seq distance=  2.767200 train accuracy=  0.032329
+INFO: 06-29 16:52:25: train_shadownet.py:110 * 140520272692544 Training from scratch
+INFO: 06-29 17:00:33: train_shadownet.py:110 * 140550773892416 Training from scratch
+INFO: 06-29 17:00:54: train_shadownet.py:110 * 140651925136704 Training from scratch
+INFO: 06-29 21:52:58: train_shadownet.py:110 * 140121758332224 Training from scratch
+INFO: 06-29 21:53:02: train_shadownet.py:152 * 140121758332224 Epoch: 1 cost= 74.648712 seq distance=  2.628534 train accuracy=  0.028385
+INFO: 06-29 22:16:41: train_shadownet.py:110 * 140439358793024 Training from scratch
+INFO: 06-29 22:16:45: train_shadownet.py:152 * 140439358793024 Epoch: 1 cost= 74.695908 seq distance=  2.884722 train accuracy=  0.042969
+INFO: 06-29 22:29:33: train_shadownet.py:111 * 140335492068672 Training from scratch
+INFO: 06-29 22:33:02: train_shadownet.py:111 * 140537375536448 Training from scratch
+INFO: 06-29 22:59:39: train_shadownet.py:115 * 140603968062784 Restore model from model/shadownet/shadownet_2018-06-29-21-52-56.ckpt-0
+INFO: 06-29 22:59:39: tf_logging.py:115 * 140603968062784 Restoring parameters from model/shadownet/shadownet_2018-06-29-21-52-56.ckpt-0
+INFO: 06-29 23:03:46: train_shadownet.py:111 * 140320068195648 Training from scratch
+INFO: 06-29 23:03:49: train_shadownet.py:153 * 140320068195648 Epoch: 1 cost= 70.936409 seq distance=  2.587488 train accuracy=  0.014187
+WARNING: 06-29 23:10:44: tf_logging.py:125 * 140073611724096 Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING: 06-29 23:10:44: tf_logging.py:125 * 140073611724096 Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING: 06-29 23:14:26: tf_logging.py:125 * 140073611724096 Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING: 06-29 23:14:26: tf_logging.py:125 * 140073611724096 Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING: 06-29 23:14:43: tf_logging.py:125 * 140073611724096 Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING: 06-29 23:14:43: tf_logging.py:125 * 140073611724096 Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+INFO: 06-29 23:17:56: train_shadownet.py:111 * 140073611724096 Training from scratch
+INFO: 06-29 23:18:53: train_shadownet.py:111 * 139851981591872 Training from scratch
+INFO: 06-29 23:31:42: train_shadownet.py:111 * 139628298200384 Training from scratch
+INFO: 06-29 23:31:44: train_shadownet.py:153 * 139628298200384 Epoch: 1 cost= 72.453186 seq distance=  2.487674 train accuracy=  0.022656
+INFO: 06-29 23:31:45: train_shadownet.py:153 * 139628298200384 Epoch: 2 cost= 59.163208 seq distance=  1.931994 train accuracy=  0.039062
+INFO: 06-29 23:32:01: train_shadownet.py:111 * 140534511682880 Training from scratch
+INFO: 06-29 23:50:45: train_shadownet.py:111 * 139775372252480 Training from scratch
+INFO: 06-29 23:55:41: train_shadownet.py:110 * 140539316757824 Training from scratch
+INFO: 06-29 23:56:32: train_shadownet.py:110 * 140244373050688 Training from scratch
+INFO: 06-29 23:58:46: train_shadownet.py:110 * 140489193956672 Training from scratch
+INFO: 06-30 00:10:32: train_shadownet.py:110 * 139730527999296 Training from scratch
+INFO: 06-30 00:15:02: train_shadownet.py:110 * 139650107065664 Training from scratch
+INFO: 06-30 12:03:17: train_shadownet.py:110 * 140268670842176 Training from scratch
+INFO: 06-30 13:19:44: train_shadownet.py:110 * 139862178276672 Training from scratch
+INFO: 06-30 13:30:56: train_shadownet.py:110 * 139716919268672 Training from scratch
+INFO: 06-30 14:23:27: train_shadownet.py:110 * 139626151109952 Training from scratch
+INFO: 06-30 14:38:06: train_shadownet.py:110 * 140523846149440 Training from scratch
+INFO: 06-30 14:43:37: train_shadownet.py:110 * 140321540265280 Training from scratch

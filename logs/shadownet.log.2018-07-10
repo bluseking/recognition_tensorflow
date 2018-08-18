@@ -1,0 +1,461 @@
+INFO: 07-09 09:46:29: tf_logging.py:115 * 140261063046464 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 09:48:12: tf_logging.py:115 * 140456188572992 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 09:48:13: demo_shadownet.py:84 * 140456188572992 Predict image word_1586.png label p
+INFO: 07-09 09:49:06: tf_logging.py:115 * 139895022638400 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 09:49:07: demo_shadownet.py:84 * 139895022638400 Predict image word_1586.png label p
+INFO: 07-09 09:50:00: tf_logging.py:115 * 139962497602880 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 09:50:01: demo_shadownet.py:84 * 139962497602880 Predict image word_1586.png label p
+INFO: 07-09 09:51:32: tf_logging.py:115 * 140043331544384 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 09:51:33: demo_shadownet.py:84 * 140043331544384 Predict image word_1586.png label p
+INFO: 07-09 09:52:54: tf_logging.py:115 * 140418294641984 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 09:52:55: demo_shadownet.py:84 * 140418294641984 Predict image word_1586.png label p
+INFO: 07-09 09:53:31: tf_logging.py:115 * 139686298621248 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 09:53:33: demo_shadownet.py:84 * 139686298621248 Predict image word_1586.png label p
+INFO: 07-09 09:54:08: tf_logging.py:115 * 139648373650752 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 09:54:09: demo_shadownet.py:84 * 139648373650752 Predict image word_1586.png label p
+INFO: 07-09 09:55:11: tf_logging.py:115 * 139725973968192 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 09:55:12: demo_shadownet.py:84 * 139725973968192 Predict image word_1587.png label tairs
+INFO: 07-09 09:58:57: tf_logging.py:115 * 140270517978432 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 09:58:58: demo_shadownet.py:84 * 140270517978432 Predict image word_1586.png label p
+INFO: 07-09 09:59:19: tf_logging.py:115 * 139688093992256 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 09:59:20: demo_shadownet.py:84 * 139688093992256 Predict image word_1587.png label tairs
+INFO: 07-09 09:59:50: tf_logging.py:115 * 139900474213696 Restoring parameters from model/shadownet/shadownet_2017-10-17-11-47-46.ckpt-199999
+INFO: 07-09 10:01:22: tf_logging.py:115 * 139850704926016 Restoring parameters from model/shadownet/shadownet_2017-10-17-11-47-46.ckpt-199999
+INFO: 07-09 10:01:23: demo_shadownet.py:84 * 139850704926016 Predict image word_1586.png label %+8
+INFO: 07-09 10:01:45: tf_logging.py:115 * 139853121480000 Restoring parameters from model/shadownet/shadownet_2017-10-17-11-47-46.ckpt-199999
+INFO: 07-09 10:01:46: demo_shadownet.py:84 * 139853121480000 Predict image word_1587.png label ,  
+INFO: 07-09 10:02:23: tf_logging.py:115 * 140000494622016 Restoring parameters from model/shadownet/shadownet_2017-10-17-11-47-46.ckpt-199999
+INFO: 07-09 10:02:24: demo_shadownet.py:84 * 140000494622016 Predict image word_1587.png label ,  
+INFO: 07-09 10:02:42: tf_logging.py:115 * 139854588003648 Restoring parameters from model/shadownet/shadownet_2017-10-17-11-47-46.ckpt-199999
+INFO: 07-09 10:02:43: demo_shadownet.py:84 * 139854588003648 Predict image word_1589.png label %+ &
+INFO: 07-09 10:03:05: tf_logging.py:115 * 140428750239040 Restoring parameters from model/shadownet/shadownet_2017-10-17-11-47-46.ckpt-199999
+INFO: 07-09 10:03:06: demo_shadownet.py:84 * 140428750239040 Predict image word_1590.png label "+ 22("2
+INFO: 07-09 10:03:45: tf_logging.py:115 * 140663033009472 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:04:10: tf_logging.py:115 * 139866290963776 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:04:11: demo_shadownet.py:84 * 139866290963776 Predict image word_1590.png label casrs
+INFO: 07-09 10:04:33: tf_logging.py:115 * 139862854174016 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:04:34: demo_shadownet.py:84 * 139862854174016 Predict image word_1591.png label mlaloe
+INFO: 07-09 10:05:01: tf_logging.py:115 * 139665838912832 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:05:03: demo_shadownet.py:84 * 139665838912832 Predict image word_1592.png label aeric
+INFO: 07-09 10:05:32: tf_logging.py:115 * 140005831218496 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:05:33: demo_shadownet.py:84 * 140005831218496 Predict image word_1593.png label sol
+INFO: 07-09 10:20:57: tf_logging.py:115 * 140042329859392 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:20:58: demo_shadownet.py:84 * 140042329859392 Predict image word_1000.png label mta
+INFO: 07-09 10:21:08: tf_logging.py:115 * 139723291227456 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:21:09: demo_shadownet.py:84 * 139723291227456 Predict image word_1001.png label pli
+INFO: 07-09 10:21:18: tf_logging.py:115 * 140665984169280 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:21:19: demo_shadownet.py:84 * 140665984169280 Predict image word_1002.png label rautihon
+INFO: 07-09 10:21:28: tf_logging.py:115 * 140547305624896 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:21:29: demo_shadownet.py:84 * 140547305624896 Predict image word_1003.png label chpac
+INFO: 07-09 10:21:38: tf_logging.py:115 * 139905040254272 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:21:39: demo_shadownet.py:84 * 139905040254272 Predict image word_1004.png label inodode
+INFO: 07-09 10:22:29: tf_logging.py:115 * 139929154647360 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:22:30: demo_shadownet.py:84 * 139929154647360 Predict image word_1000.png label mta
+INFO: 07-09 10:22:39: tf_logging.py:115 * 139878913262912 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:22:40: demo_shadownet.py:84 * 139878913262912 Predict image word_1001.png label pli
+INFO: 07-09 10:22:50: tf_logging.py:115 * 139773843244352 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:22:51: demo_shadownet.py:84 * 139773843244352 Predict image word_1002.png label rautihon
+INFO: 07-09 10:23:02: tf_logging.py:115 * 139852112102720 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:23:03: demo_shadownet.py:84 * 139852112102720 Predict image word_1003.png label chpac
+INFO: 07-09 10:23:12: tf_logging.py:115 * 140305122501952 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:23:13: demo_shadownet.py:84 * 140305122501952 Predict image word_1004.png label inodode
+INFO: 07-09 10:23:22: tf_logging.py:115 * 140122251244864 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:23:23: demo_shadownet.py:84 * 140122251244864 Predict image word_1005.png label hhating
+INFO: 07-09 10:23:32: tf_logging.py:115 * 139881967519040 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:23:33: demo_shadownet.py:84 * 139881967519040 Predict image word_1006.png label pal'
+INFO: 07-09 10:23:43: tf_logging.py:115 * 139766021080384 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:23:44: demo_shadownet.py:84 * 139766021080384 Predict image word_1007.png label caste
+INFO: 07-09 10:23:53: tf_logging.py:115 * 140469792036160 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:23:54: demo_shadownet.py:84 * 140469792036160 Predict image word_1008.png label time
+INFO: 07-09 10:24:03: tf_logging.py:115 * 140477592724800 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:24:05: demo_shadownet.py:84 * 140477592724800 Predict image word_1009.png label pintatiae
+INFO: 07-09 10:24:14: tf_logging.py:115 * 140443848525120 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:24:15: demo_shadownet.py:84 * 140443848525120 Predict image word_100.png label risears
+INFO: 07-09 10:24:24: tf_logging.py:115 * 139962591929664 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:24:25: demo_shadownet.py:84 * 139962591929664 Predict image word_1010.png label th
+INFO: 07-09 10:24:34: tf_logging.py:115 * 139713119827264 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:24:36: demo_shadownet.py:84 * 139713119827264 Predict image word_1011.png label netay
+INFO: 07-09 10:24:46: tf_logging.py:115 * 140144232908096 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:24:48: demo_shadownet.py:84 * 140144232908096 Predict image word_1012.png label cealititie
+INFO: 07-09 10:24:57: tf_logging.py:115 * 140241738327360 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:24:58: demo_shadownet.py:84 * 140241738327360 Predict image word_1013.png label terin
+INFO: 07-09 10:25:08: tf_logging.py:115 * 140686709290304 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:25:09: demo_shadownet.py:84 * 140686709290304 Predict image word_1014.png label imom
+INFO: 07-09 10:25:18: tf_logging.py:115 * 139647394395456 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:25:19: demo_shadownet.py:84 * 139647394395456 Predict image word_1015.png label cis
+INFO: 07-09 10:25:28: tf_logging.py:115 * 139863163077952 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:25:29: demo_shadownet.py:84 * 139863163077952 Predict image word_1016.png label tete
+INFO: 07-09 10:25:40: tf_logging.py:115 * 140524980839744 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:25:41: demo_shadownet.py:84 * 140524980839744 Predict image word_1017.png label dsn
+INFO: 07-09 10:25:51: tf_logging.py:115 * 139659036620096 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:25:52: demo_shadownet.py:84 * 139659036620096 Predict image word_1018.png label fean
+INFO: 07-09 10:26:02: tf_logging.py:115 * 140226586731840 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:26:03: demo_shadownet.py:84 * 140226586731840 Predict image word_1019.png label mae
+INFO: 07-09 10:26:13: tf_logging.py:115 * 140637270603072 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:26:14: demo_shadownet.py:84 * 140637270603072 Predict image word_101.png label garnsal
+INFO: 07-09 10:26:26: tf_logging.py:115 * 139921693295936 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:26:27: demo_shadownet.py:84 * 139921693295936 Predict image word_1020.png label cuse
+INFO: 07-09 10:27:10: tf_logging.py:115 * 140330404910400 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:27:12: demo_shadownet.py:84 * 140330404910400 Predict image word_1000.png label mania
+INFO: 07-09 10:27:21: tf_logging.py:115 * 140071937033536 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:27:22: demo_shadownet.py:84 * 140071937033536 Predict image word_1001.png label exit
+INFO: 07-09 10:28:01: tf_logging.py:115 * 140390614570304 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:28:03: demo_shadownet.py:84 * 140390614570304 Predict image word_1002.png label $24
+INFO: 07-09 10:28:20: tf_logging.py:115 * 140593660048704 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:28:21: demo_shadownet.py:84 * 140593660048704 Predict image word_1003.png label wildlife
+INFO: 07-09 10:28:35: tf_logging.py:115 * 140229080483136 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:28:37: demo_shadownet.py:84 * 140229080483136 Predict image word_1004.png label experience
+INFO: 07-09 10:28:46: tf_logging.py:115 * 140045689173312 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-09 10:28:47: demo_shadownet.py:84 * 140045689173312 Predict image word_1005.png label save
+INFO: 07-10 09:41:59: tf_logging.py:115 * 140095624242496 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:42:01: demo_shadownet.py:84 * 140095624242496 Predict image word_1000.png label mania
+INFO: 07-10 09:42:12: tf_logging.py:115 * 140502905853248 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:42:13: demo_shadownet.py:84 * 140502905853248 Predict image word_1001.png label exit
+INFO: 07-10 09:42:25: tf_logging.py:115 * 140491309872448 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:42:26: demo_shadownet.py:84 * 140491309872448 Predict image word_1002.png label $24
+INFO: 07-10 09:42:37: tf_logging.py:115 * 140504054207808 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:42:38: demo_shadownet.py:84 * 140504054207808 Predict image word_1003.png label wildlife
+INFO: 07-10 09:42:50: tf_logging.py:115 * 140646289077568 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:42:51: demo_shadownet.py:84 * 140646289077568 Predict image word_1004.png label experience
+INFO: 07-10 09:43:03: tf_logging.py:115 * 139772708988224 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:43:04: demo_shadownet.py:84 * 139772708988224 Predict image word_1005.png label save
+INFO: 07-10 09:43:16: tf_logging.py:115 * 140234153551168 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:43:17: demo_shadownet.py:84 * 140234153551168 Predict image word_1006.png label ultimate
+INFO: 07-10 09:43:28: tf_logging.py:115 * 139819772937536 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:43:30: demo_shadownet.py:84 * 139819772937536 Predict image word_1007.png label singapore's
+INFO: 07-10 09:43:41: tf_logging.py:115 * 139628560962880 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:43:42: demo_shadownet.py:84 * 139628560962880 Predict image word_1008.png label parks
+INFO: 07-10 09:43:54: tf_logging.py:115 * 140498216297792 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:43:55: demo_shadownet.py:84 * 140498216297792 Predict image word_1009.png label price
+INFO: 07-10 09:44:07: tf_logging.py:115 * 140119602718016 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:44:08: demo_shadownet.py:84 * 140119602718016 Predict image word_100.png label down
+INFO: 07-10 09:44:19: tf_logging.py:115 * 140579666154816 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:44:21: demo_shadownet.py:84 * 140579666154816 Predict image word_1010.png label max
+INFO: 07-10 09:44:32: tf_logging.py:115 * 139854041875776 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:44:33: demo_shadownet.py:84 * 139854041875776 Predict image word_1011.png label height
+INFO: 07-10 09:44:45: tf_logging.py:115 * 139688639042880 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:44:46: demo_shadownet.py:84 * 139688639042880 Predict image word_1012.png label 3m
+INFO: 07-10 09:44:57: tf_logging.py:115 * 139926045910336 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:44:59: demo_shadownet.py:84 * 139926045910336 Predict image word_1013.png label reader\
+INFO: 07-10 09:45:10: tf_logging.py:115 * 139717786674496 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:45:11: demo_shadownet.py:84 * 139717786674496 Predict image word_1014.png label the
+INFO: 07-10 09:45:23: tf_logging.py:115 * 140702931940672 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:45:24: demo_shadownet.py:84 * 140702931940672 Predict image word_1015.png label exit
+INFO: 07-10 09:45:36: tf_logging.py:115 * 139811686696256 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:45:37: demo_shadownet.py:84 * 139811686696256 Predict image word_1016.png label side-gate
+INFO: 07-10 09:45:48: tf_logging.py:115 * 140546507990336 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:45:50: demo_shadownet.py:84 * 140546507990336 Predict image word_1017.png label residents,
+INFO: 07-10 09:46:01: tf_logging.py:115 * 140447811966272 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:46:03: demo_shadownet.py:84 * 140447811966272 Predict image word_1018.png label \"scan\
+INFO: 07-10 09:46:14: tf_logging.py:115 * 140644297725248 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:46:15: demo_shadownet.py:84 * 140644297725248 Predict image word_1019.png label dear
+INFO: 07-10 09:46:27: tf_logging.py:115 * 140008424748352 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:46:28: demo_shadownet.py:84 * 140008424748352 Predict image word_101.png label love
+INFO: 07-10 09:46:39: tf_logging.py:115 * 140049787856192 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:46:40: demo_shadownet.py:84 * 140049787856192 Predict image word_1020.png label your
+INFO: 07-10 09:46:52: tf_logging.py:115 * 139861078807872 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:46:53: demo_shadownet.py:84 * 139861078807872 Predict image word_1021.png label access
+INFO: 07-10 09:47:05: tf_logging.py:115 * 139710421271872 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:47:06: demo_shadownet.py:84 * 139710421271872 Predict image word_1022.png label card
+INFO: 07-10 09:47:17: tf_logging.py:115 * 139789916910912 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:47:18: demo_shadownet.py:84 * 139789916910912 Predict image word_1023.png label \card
+INFO: 07-10 09:47:30: tf_logging.py:115 * 140310298314048 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:47:31: demo_shadownet.py:84 * 140310298314048 Predict image word_1024.png label the
+INFO: 07-10 09:47:42: tf_logging.py:115 * 140117621265728 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:47:44: demo_shadownet.py:84 * 140117621265728 Predict image word_1025.png label right
+INFO: 07-10 09:47:55: tf_logging.py:115 * 140037640611136 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:47:56: demo_shadownet.py:84 * 140037640611136 Predict image word_1026.png label hand
+INFO: 07-10 09:48:08: tf_logging.py:115 * 139676400997696 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:48:09: demo_shadownet.py:84 * 139676400997696 Predict image word_1027.png label side
+INFO: 07-10 09:48:20: tf_logging.py:115 * 139735067551040 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:48:21: demo_shadownet.py:84 * 139735067551040 Predict image word_1028.png label the
+INFO: 07-10 09:48:33: tf_logging.py:115 * 140126300091712 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:48:34: demo_shadownet.py:84 * 140126300091712 Predict image word_1029.png label wall
+INFO: 07-10 09:48:45: tf_logging.py:115 * 140539307844928 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:48:47: demo_shadownet.py:84 * 140539307844928 Predict image word_102.png label smrt
+INFO: 07-10 09:48:58: tf_logging.py:115 * 140350541448512 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:49:00: demo_shadownet.py:84 * 140350541448512 Predict image word_1030.png label and
+INFO: 07-10 09:49:11: tf_logging.py:115 * 140521995552064 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:49:12: demo_shadownet.py:84 * 140521995552064 Predict image word_1031.png label open
+INFO: 07-10 09:49:24: tf_logging.py:115 * 139655937328448 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:49:25: demo_shadownet.py:84 * 139655937328448 Predict image word_1032.png label gate.
+INFO: 07-10 09:49:37: tf_logging.py:115 * 140066489275712 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:49:38: demo_shadownet.py:84 * 140066489275712 Predict image word_1033.png label give
+INFO: 07-10 09:49:50: tf_logging.py:115 * 139997116040512 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:49:51: demo_shadownet.py:84 * 139997116040512 Predict image word_1034.png label way
+INFO: 07-10 09:50:03: tf_logging.py:115 * 140163262707008 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:50:04: demo_shadownet.py:84 * 140163262707008 Predict image word_1035.png label buses
+INFO: 07-10 09:50:16: tf_logging.py:115 * 140008081274176 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:50:17: demo_shadownet.py:84 * 140008081274176 Predict image word_1036.png label exiting
+INFO: 07-10 09:50:28: tf_logging.py:115 * 139700490466624 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:50:29: demo_shadownet.py:84 * 139700490466624 Predict image word_1037.png label mcdonald's
+INFO: 07-10 09:50:41: tf_logging.py:115 * 139669717394752 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:50:42: demo_shadownet.py:84 * 139669717394752 Predict image word_1038.png label uno
+INFO: 07-10 09:50:54: tf_logging.py:115 * 139650992059712 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:50:55: demo_shadownet.py:84 * 139650992059712 Predict image word_1039.png label public
+INFO: 07-10 09:51:06: tf_logging.py:115 * 140172885820736 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:51:08: demo_shadownet.py:84 * 140172885820736 Predict image word_103.png label straits
+INFO: 07-10 09:51:19: tf_logging.py:115 * 140027247342912 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:51:20: demo_shadownet.py:84 * 140027247342912 Predict image word_1040.png label doors
+INFO: 07-10 09:51:32: tf_logging.py:115 * 140072730891584 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:51:33: demo_shadownet.py:84 * 140072730891584 Predict image word_1041.png label reserved
+INFO: 07-10 09:51:45: tf_logging.py:115 * 139790599669056 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:51:46: demo_shadownet.py:84 * 139790599669056 Predict image word_1042.png label keep
+INFO: 07-10 09:51:57: tf_logging.py:115 * 140485695395136 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:51:59: demo_shadownet.py:84 * 140485695395136 Predict image word_1043.png label clear
+INFO: 07-10 09:52:10: tf_logging.py:115 * 140197295105344 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:52:11: demo_shadownet.py:84 * 140197295105344 Predict image word_1044.png label seating
+INFO: 07-10 09:52:23: tf_logging.py:115 * 140195860223296 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:52:24: demo_shadownet.py:84 * 140195860223296 Predict image word_1045.png label jangan
+INFO: 07-10 09:52:36: tf_logging.py:115 * 139882100938048 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:52:37: demo_shadownet.py:84 * 139882100938048 Predict image word_1046.png label berdi
+INFO: 07-10 09:52:48: tf_logging.py:115 * 139993273914688 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:52:50: demo_shadownet.py:84 * 139993273914688 Predict image word_1047.png label dekat
+INFO: 07-10 09:53:01: tf_logging.py:115 * 139906038474048 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:53:02: demo_shadownet.py:84 * 139906038474048 Predict image word_1048.png label pintu
+INFO: 07-10 09:53:14: tf_logging.py:115 * 140454952682816 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:53:15: demo_shadownet.py:84 * 140454952682816 Predict image word_1049.png label 501
+INFO: 07-10 09:53:26: tf_logging.py:115 * 140313319785792 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:53:28: demo_shadownet.py:84 * 140313319785792 Predict image word_104.png label optical
+INFO: 07-10 09:53:39: tf_logging.py:115 * 139693941556544 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:53:40: demo_shadownet.py:84 * 139693941556544 Predict image word_1050.png label lei
+INFO: 07-10 09:53:52: tf_logging.py:115 * 139933855540544 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:53:53: demo_shadownet.py:84 * 139933855540544 Predict image word_1051.png label levi
+INFO: 07-10 09:54:04: tf_logging.py:115 * 140195193500992 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:54:05: demo_shadownet.py:84 * 140195193500992 Predict image word_1052.png label levi's
+INFO: 07-10 09:54:17: tf_logging.py:115 * 140267157321024 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:54:18: demo_shadownet.py:84 * 140267157321024 Predict image word_1053.png label apache
+INFO: 07-10 09:54:30: tf_logging.py:115 * 140204156749120 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:54:31: demo_shadownet.py:84 * 140204156749120 Predict image word_1054.png label nomads
+INFO: 07-10 09:54:42: tf_logging.py:115 * 140363657266496 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:54:44: demo_shadownet.py:84 * 140363657266496 Predict image word_1055.png label danger
+INFO: 07-10 09:54:55: tf_logging.py:115 * 139917994538304 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:54:56: demo_shadownet.py:84 * 139917994538304 Predict image word_1056.png label out!
+INFO: 07-10 09:55:08: tf_logging.py:115 * 140685294216512 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:55:09: demo_shadownet.py:84 * 140685294216512 Predict image word_1057.png label cte
+INFO: 07-10 09:55:20: tf_logging.py:115 * 140163031078208 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:55:22: demo_shadownet.py:84 * 140163031078208 Predict image word_1058.png label 1pm
+INFO: 07-10 09:55:33: tf_logging.py:115 * 140435197527360 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:55:34: demo_shadownet.py:84 * 140435197527360 Predict image word_1059.png label 1am
+INFO: 07-10 09:55:46: tf_logging.py:115 * 140236090627392 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:55:47: demo_shadownet.py:84 * 140236090627392 Predict image word_105.png label phoon
+INFO: 07-10 09:55:59: tf_logging.py:115 * 139817997186368 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:56:00: demo_shadownet.py:84 * 139817997186368 Predict image word_1060.png label closed
+INFO: 07-10 09:56:11: tf_logging.py:115 * 140184849843520 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:56:12: demo_shadownet.py:84 * 140184849843520 Predict image word_1061.png label orchard
+INFO: 07-10 09:56:24: tf_logging.py:115 * 140717216965952 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:56:25: demo_shadownet.py:84 * 140717216965952 Predict image word_1062.png label est
+INFO: 07-10 09:56:37: tf_logging.py:115 * 140356421711168 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:56:38: demo_shadownet.py:84 * 140356421711168 Predict image word_1063.png label to:
+INFO: 07-10 09:56:49: tf_logging.py:115 * 140657408914752 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:56:51: demo_shadownet.py:84 * 140657408914752 Predict image word_1064.png label mins
+INFO: 07-10 09:57:02: tf_logging.py:115 * 140420093850944 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:57:03: demo_shadownet.py:84 * 140420093850944 Predict image word_1065.png label hitachi
+INFO: 07-10 09:57:14: tf_logging.py:115 * 140592390493504 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:57:15: demo_shadownet.py:84 * 140592390493504 Predict image word_1066.png label \"we
+INFO: 07-10 09:57:27: tf_logging.py:115 * 140216652535104 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:57:28: demo_shadownet.py:84 * 140216652535104 Predict image word_1067.png label insurance
+INFO: 07-10 09:57:40: tf_logging.py:115 * 140295848105280 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:57:41: demo_shadownet.py:84 * 140295848105280 Predict image word_1068.png label 154
+INFO: 07-10 09:57:53: tf_logging.py:115 * 139702650791232 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:57:54: demo_shadownet.py:84 * 139702650791232 Predict image word_1069.png label redefining
+INFO: 07-10 09:58:05: tf_logging.py:115 * 139853638485312 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:58:06: demo_shadownet.py:84 * 139853638485312 Predict image word_106.png label huat
+INFO: 07-10 09:58:17: tf_logging.py:115 * 140506018149696 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:58:19: demo_shadownet.py:84 * 140506018149696 Predict image word_1070.png label more
+INFO: 07-10 09:58:30: tf_logging.py:115 * 140128240276800 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:58:31: demo_shadownet.py:84 * 140128240276800 Predict image word_1071.png label than
+INFO: 07-10 09:58:43: tf_logging.py:115 * 140188117816640 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:58:44: demo_shadownet.py:84 * 140188117816640 Predict image word_1072.png label manage
+INFO: 07-10 09:58:56: tf_logging.py:115 * 139927049270592 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:58:57: demo_shadownet.py:84 * 139927049270592 Predict image word_1073.png label claims.
+INFO: 07-10 09:59:08: tf_logging.py:115 * 139716310402368 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:59:10: demo_shadownet.py:84 * 139716310402368 Predict image word_1074.png label also
+INFO: 07-10 09:59:21: tf_logging.py:115 * 140042660058432 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:59:22: demo_shadownet.py:84 * 140042660058432 Predict image word_1075.png label help
+INFO: 07-10 09:59:34: tf_logging.py:115 * 140687973856576 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:59:35: demo_shadownet.py:84 * 140687973856576 Predict image word_1076.png label rebuild
+INFO: 07-10 09:59:46: tf_logging.py:115 * 140110056879424 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 09:59:47: demo_shadownet.py:84 * 140110056879424 Predict image word_1077.png label lives.\
+INFO: 07-10 09:59:58: tf_logging.py:115 * 139947322647872 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:00:00: demo_shadownet.py:84 * 139947322647872 Predict image word_1078.png label skylight
+INFO: 07-10 10:00:12: tf_logging.py:115 * 140391796720960 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:00:13: demo_shadownet.py:84 * 140391796720960 Predict image word_1079.png label channel
+INFO: 07-10 10:00:24: tf_logging.py:115 * 139935821575488 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:00:25: demo_shadownet.py:84 * 139935821575488 Predict image word_107.png label since
+INFO: 07-10 10:00:37: tf_logging.py:115 * 139944473789760 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:00:38: demo_shadownet.py:84 * 139944473789760 Predict image word_1080.png label premium
+INFO: 07-10 10:00:50: tf_logging.py:115 * 139659402241344 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:00:51: demo_shadownet.py:84 * 139659402241344 Predict image word_1081.png label gifts
+INFO: 07-10 10:01:02: tf_logging.py:115 * 140162495726912 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:01:04: demo_shadownet.py:84 * 140162495726912 Predict image word_1082.png label skylight
+INFO: 07-10 10:01:15: tf_logging.py:115 * 139896902149440 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:01:16: demo_shadownet.py:84 * 139896902149440 Predict image word_1083.png label skylight
+INFO: 07-10 10:01:28: tf_logging.py:115 * 140100907595072 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:01:29: demo_shadownet.py:84 * 140100907595072 Predict image word_1084.png label 2014
+INFO: 07-10 10:01:41: tf_logging.py:115 * 139680846939456 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:01:42: demo_shadownet.py:84 * 139680846939456 Predict image word_1085.png label ayer
+INFO: 07-10 10:01:53: tf_logging.py:115 * 140637865518400 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:01:54: demo_shadownet.py:84 * 140637865518400 Predict image word_1086.png label rajah
+INFO: 07-10 10:02:06: tf_logging.py:115 * 139664193463616 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:02:07: demo_shadownet.py:84 * 139664193463616 Predict image word_1087.png label ave
+INFO: 07-10 10:02:18: tf_logging.py:115 * 140452812309824 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:02:20: demo_shadownet.py:84 * 140452812309824 Predict image word_1088.png label nsrad
+INFO: 07-10 10:02:31: tf_logging.py:115 * 140233931085120 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:02:32: demo_shadownet.py:84 * 140233931085120 Predict image word_1089.png label stop
+INFO: 07-10 10:02:44: tf_logging.py:115 * 139807314666816 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:02:45: demo_shadownet.py:84 * 139807314666816 Predict image word_108.png label !947
+INFO: 07-10 10:02:56: tf_logging.py:115 * 139705390503232 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:02:58: demo_shadownet.py:84 * 139705390503232 Predict image word_1090.png label stop
+INFO: 07-10 10:03:09: tf_logging.py:115 * 140564746634560 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:03:10: demo_shadownet.py:84 * 140564746634560 Predict image word_1091.png label zero
+INFO: 07-10 10:03:22: tf_logging.py:115 * 140299945096512 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:03:23: demo_shadownet.py:84 * 140299945096512 Predict image word_1092.png label tidinas
+INFO: 07-10 10:03:35: tf_logging.py:115 * 139703333115200 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:03:36: demo_shadownet.py:84 * 139703333115200 Predict image word_1093.png label introducing.
+INFO: 07-10 10:03:47: tf_logging.py:115 * 140564125205824 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:03:49: demo_shadownet.py:84 * 140564125205824 Predict image word_1094.png label exit
+INFO: 07-10 10:04:00: tf_logging.py:115 * 140102995862848 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:04:02: demo_shadownet.py:84 * 140102995862848 Predict image word_1095.png label exit
+INFO: 07-10 10:04:13: tf_logging.py:115 * 140602242041152 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:04:14: demo_shadownet.py:84 * 140602242041152 Predict image word_1096.png label gre
+INFO: 07-10 10:04:26: tf_logging.py:115 * 140430867133760 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:04:27: demo_shadownet.py:84 * 140430867133760 Predict image word_1097.png label boston
+INFO: 07-10 10:04:39: tf_logging.py:115 * 140252825310528 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:04:40: demo_shadownet.py:84 * 140252825310528 Predict image word_1098.png label gre
+INFO: 07-10 10:04:51: tf_logging.py:115 * 140225580934464 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:04:53: demo_shadownet.py:84 * 140225580934464 Predict image word_1099.png label get
+INFO: 07-10 10:05:04: tf_logging.py:115 * 140377833272640 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:05:05: demo_shadownet.py:84 * 140377833272640 Predict image word_109.png label baking
+INFO: 07-10 10:05:17: tf_logging.py:115 * 140177153766720 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:05:18: demo_shadownet.py:84 * 140177153766720 Predict image word_10.png label caution
+INFO: 07-10 10:05:30: tf_logging.py:115 * 140330202244416 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:05:31: demo_shadownet.py:84 * 140330202244416 Predict image word_1100.png label rewards
+INFO: 07-10 10:05:42: tf_logging.py:115 * 139726899160384 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:05:43: demo_shadownet.py:84 * 139726899160384 Predict image word_1101.png label fit
+INFO: 07-10 10:05:55: tf_logging.py:115 * 140150138594624 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:05:56: demo_shadownet.py:84 * 140150138594624 Predict image word_1102.png label exit
+INFO: 07-10 10:06:08: tf_logging.py:115 * 140681380930880 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:06:09: demo_shadownet.py:84 * 140681380930880 Predict image word_1103.png label exit
+INFO: 07-10 10:06:20: tf_logging.py:115 * 140446897624384 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:06:21: demo_shadownet.py:84 * 140446897624384 Predict image word_1104.png label east
+INFO: 07-10 10:06:33: tf_logging.py:115 * 140588881929536 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:06:34: demo_shadownet.py:84 * 140588881929536 Predict image word_1105.png label west
+INFO: 07-10 10:06:45: tf_logging.py:115 * 140112752907584 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:06:47: demo_shadownet.py:84 * 140112752907584 Predict image word_1106.png label line
+INFO: 07-10 10:06:58: tf_logging.py:115 * 140708071437632 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:06:59: demo_shadownet.py:84 * 140708071437632 Predict image word_1107.png label sleeper
+INFO: 07-10 10:07:11: tf_logging.py:115 * 140715936744768 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:07:12: demo_shadownet.py:84 * 140715936744768 Predict image word_1108.png label shooting
+INFO: 07-10 10:07:24: tf_logging.py:115 * 140057283794240 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:07:25: demo_shadownet.py:84 * 140057283794240 Predict image word_1109.png label ready
+INFO: 07-10 10:07:37: tf_logging.py:115 * 140237047002432 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:07:38: demo_shadownet.py:84 * 140237047002432 Predict image word_110.png label made
+INFO: 07-10 10:07:49: tf_logging.py:115 * 140085977249088 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:07:50: demo_shadownet.py:84 * 140085977249088 Predict image word_1110.png label the
+INFO: 07-10 10:08:02: tf_logging.py:115 * 140353532208448 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:08:03: demo_shadownet.py:84 * 140353532208448 Predict image word_1111.png label world
+INFO: 07-10 10:08:15: tf_logging.py:115 * 140496328488256 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:08:16: demo_shadownet.py:84 * 140496328488256 Predict image word_1112.png label ww.itedu.sg
+INFO: 07-10 10:08:27: tf_logging.py:115 * 140202741060928 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:08:29: demo_shadownet.py:84 * 140202741060928 Predict image word_1113.png label for
+INFO: 07-10 10:08:40: tf_logging.py:115 * 140394311648576 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:08:41: demo_shadownet.py:84 * 140394311648576 Predict image word_1114.png label award
+INFO: 07-10 10:08:53: tf_logging.py:115 * 140382640026944 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:08:54: demo_shadownet.py:84 * 140382640026944 Predict image word_1115.png label we´re
+INFO: 07-10 10:09:05: tf_logging.py:115 * 140155933963584 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:09:06: demo_shadownet.py:84 * 140155933963584 Predict image word_1116.png label for
+INFO: 07-10 10:09:18: tf_logging.py:115 * 140526364546368 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:09:19: demo_shadownet.py:84 * 140526364546368 Predict image word_1117.png label success
+INFO: 07-10 10:09:31: tf_logging.py:115 * 139664919557440 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:09:32: demo_shadownet.py:84 * 139664919557440 Predict image word_1118.png label quality
+INFO: 07-10 10:09:44: tf_logging.py:115 * 140699486967104 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:09:45: demo_shadownet.py:84 * 140699486967104 Predict image word_1119.png label 325
+INFO: 07-10 10:09:57: tf_logging.py:115 * 139694489728320 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:09:58: demo_shadownet.py:84 * 139694489728320 Predict image word_111.png label easy
+INFO: 07-10 10:10:09: tf_logging.py:115 * 139896605418816 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:10:10: demo_shadownet.py:84 * 139896605418816 Predict image word_1120.png label posb
+INFO: 07-10 10:10:22: tf_logging.py:115 * 140412899501376 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:10:23: demo_shadownet.py:84 * 140412899501376 Predict image word_1121.png label s2.0
+INFO: 07-10 10:10:34: tf_logging.py:115 * 140674729100608 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:10:35: demo_shadownet.py:84 * 140674729100608 Predict image word_1122.png label set
+INFO: 07-10 10:10:47: tf_logging.py:115 * 139805148230976 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:10:48: demo_shadownet.py:84 * 139805148230976 Predict image word_1123.png label set
+INFO: 07-10 10:11:00: tf_logging.py:115 * 140525635941696 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:11:01: demo_shadownet.py:84 * 140525635941696 Predict image word_1124.png label set
+INFO: 07-10 10:11:12: tf_logging.py:115 * 140067638834496 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:11:14: demo_shadownet.py:84 * 140067638834496 Predict image word_1125.png label hot
+INFO: 07-10 10:11:25: tf_logging.py:115 * 139780151862592 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:11:26: demo_shadownet.py:84 * 139780151862592 Predict image word_1126.png label $2..30
+INFO: 07-10 10:11:38: tf_logging.py:115 * 140442717377856 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:11:39: demo_shadownet.py:84 * 140442717377856 Predict image word_1127.png label $2.00
+INFO: 07-10 10:11:50: tf_logging.py:115 * 139687827789120 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:11:51: demo_shadownet.py:84 * 139687827789120 Predict image word_1128.png label noodle
+INFO: 07-10 10:12:03: tf_logging.py:115 * 140555262268736 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:12:04: demo_shadownet.py:84 * 140555262268736 Predict image word_1129.png label age
+INFO: 07-10 10:12:15: tf_logging.py:115 * 139940861986112 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:12:17: demo_shadownet.py:84 * 139940861986112 Predict image word_112.png label baking
+INFO: 07-10 10:12:28: tf_logging.py:115 * 139934893012288 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:12:29: demo_shadownet.py:84 * 139934893012288 Predict image word_1130.png label prince
+INFO: 07-10 10:12:40: tf_logging.py:115 * 140082928608576 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:12:42: demo_shadownet.py:84 * 140082928608576 Predict image word_1131.png label khalifa
+INFO: 07-10 10:12:53: tf_logging.py:115 * 140026122474816 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:12:54: demo_shadownet.py:84 * 140026122474816 Predict image word_1132.png label school
+INFO: 07-10 10:13:05: tf_logging.py:115 * 139625411892544 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:13:06: demo_shadownet.py:84 * 139625411892544 Predict image word_1133.png label zone
+INFO: 07-10 10:13:18: tf_logging.py:115 * 139652332037440 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:13:19: demo_shadownet.py:84 * 139652332037440 Predict image word_1134.png label hitachi
+INFO: 07-10 10:13:31: tf_logging.py:115 * 139916498326848 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:13:32: demo_shadownet.py:84 * 139916498326848 Predict image word_1135.png label tnling
+INFO: 07-10 10:13:43: tf_logging.py:115 * 140407180707136 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:13:44: demo_shadownet.py:84 * 140407180707136 Predict image word_1136.png label murdoch
+INFO: 07-10 10:13:56: tf_logging.py:115 * 140582389708096 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:13:57: demo_shadownet.py:84 * 140582389708096 Predict image word_1137.png label smrt
+INFO: 07-10 10:14:09: tf_logging.py:115 * 140025345135936 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:14:10: demo_shadownet.py:84 * 140025345135936 Predict image word_1138.png label shop&dine
+INFO: 07-10 10:14:22: tf_logging.py:115 * 139700256212288 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:14:23: demo_shadownet.py:84 * 139700256212288 Predict image word_1139.png label food
+INFO: 07-10 10:14:34: tf_logging.py:115 * 140671382906176 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:14:35: demo_shadownet.py:84 * 140671382906176 Predict image word_113.png label made
+INFO: 07-10 10:14:47: tf_logging.py:115 * 140427841725760 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:14:48: demo_shadownet.py:84 * 140427841725760 Predict image word_1140.png label beverages
+INFO: 07-10 10:15:00: tf_logging.py:115 * 140712524977472 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:15:01: demo_shadownet.py:84 * 140712524977472 Predict image word_1141.png label the
+INFO: 07-10 10:15:12: tf_logging.py:115 * 140353527887168 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:15:14: demo_shadownet.py:84 * 140353527887168 Predict image word_1142.png label cafe
+INFO: 07-10 10:15:25: tf_logging.py:115 * 139737143465280 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:15:26: demo_shadownet.py:84 * 139737143465280 Predict image word_1143.png label lobby
+INFO: 07-10 10:15:38: tf_logging.py:115 * 140361002579264 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:15:39: demo_shadownet.py:84 * 140361002579264 Predict image word_1144.png label bringing
+INFO: 07-10 10:15:50: tf_logging.py:115 * 140095491224896 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:15:52: demo_shadownet.py:84 * 140095491224896 Predict image word_1145.png label hoac
+INFO: 07-10 10:16:03: tf_logging.py:115 * 139880030688576 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:16:04: demo_shadownet.py:84 * 139880030688576 Predict image word_1146.png label changing
+INFO: 07-10 10:16:15: tf_logging.py:115 * 139979204339008 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:16:17: demo_shadownet.py:84 * 139979204339008 Predict image word_1147.png label arnold
+INFO: 07-10 10:16:28: tf_logging.py:115 * 139835698611520 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:16:29: demo_shadownet.py:84 * 139835698611520 Predict image word_1148.png label keppol
+INFO: 07-10 10:16:41: tf_logging.py:115 * 139787413218624 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:16:42: demo_shadownet.py:84 * 139787413218624 Predict image word_1149.png label etude
+INFO: 07-10 10:16:53: tf_logging.py:115 * 139917591995712 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:16:55: demo_shadownet.py:84 * 139917591995712 Predict image word_114.png label easy
+INFO: 07-10 10:17:06: tf_logging.py:115 * 140713586615616 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:17:07: demo_shadownet.py:84 * 140713586615616 Predict image word_1150.png label 199
+INFO: 07-10 10:17:19: tf_logging.py:115 * 140366690395456 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:17:20: demo_shadownet.py:84 * 140366690395456 Predict image word_1151.png label etude
+INFO: 07-10 10:17:32: tf_logging.py:115 * 139743454569792 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:17:33: demo_shadownet.py:84 * 139743454569792 Predict image word_1152.png label palme
+INFO: 07-10 10:17:44: tf_logging.py:115 * 140535187719488 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:17:46: demo_shadownet.py:84 * 140535187719488 Predict image word_1153.png label new
+INFO: 07-10 10:17:57: tf_logging.py:115 * 139991952340288 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:17:59: demo_shadownet.py:84 * 139991952340288 Predict image word_1154.png label york
+INFO: 07-10 10:18:10: tf_logging.py:115 * 140266974164288 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:18:11: demo_shadownet.py:84 * 140266974164288 Predict image word_1155.png label actioncity
+INFO: 07-10 10:18:23: tf_logging.py:115 * 140113278289216 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:18:24: demo_shadownet.py:84 * 140113278289216 Predict image word_1156.png label gadget
+INFO: 07-10 10:18:35: tf_logging.py:115 * 140577579337024 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:18:36: demo_shadownet.py:84 * 140577579337024 Predict image word_1157.png label bos
+INFO: 07-10 10:18:48: tf_logging.py:115 * 139836653827392 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:18:49: demo_shadownet.py:84 * 139836653827392 Predict image word_1158.png label 182/182
+INFO: 07-10 10:19:01: tf_logging.py:115 * 139956156523840 Restoring parameters from model/shadownet/shadownet_2018-07-02-20-32-30.ckpt-39999
+INFO: 07-10 10:19:02: demo_shadownet.py:84 * 139956156523840 Predict image word_1159.png label 243

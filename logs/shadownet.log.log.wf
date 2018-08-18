@@ -1,0 +1,2 @@
+WARNING: 07-01 19:53:29: tf_logging.py:125 * 139746757625152 Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING: 07-01 19:53:29: tf_logging.py:125 * 139746757625152 Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
